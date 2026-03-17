@@ -4,9 +4,6 @@ Books I've read and am currently reading across AI/ML and general topics — wit
 
 ---
 
-## AI / ML & Engineering — Books
-## AI / ML & Engineering — Books
-
 | Cover | Title | Author | Progress | Status | Repository |
 |:-----:|-------|--------|:--------:|:------:|:----------:|
 | <img src="media/HandsOnMLwithScikitKerasTensorFlow.png" width="55"/> | **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow** | Aurélien Géron | `███░░░░░░░` 30% | On Hold | — |
