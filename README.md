@@ -6,11 +6,11 @@ Books I've read and am currently reading across AI/ML and general topics — wit
 
 | Cover | Title | Author | Progress | Status | Repository |
 |:-----:|-------|--------|:--------:|:------:|:----------:|
-| <img src="media/HandsOnMLwithScikitKerasTensorFlow.png" width="55"/> | **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow** | Aurélien Géron | `███░░░░░░░` 30% | On Hold | — |
-| <img src="media/Deep_Learning_with_PyTorch _Step-by-Step.png" width="55"/> | **Deep Learning with PyTorch Step-by-Step** | Daniel Voigt Godoy | `██████░░░░` 60% | On Hold | [here](https://github.com/ujjwal-basnet/Deep-learning-by-Daniel-Voigt-Godoy-) and others in did't even push to github |
+| <img src="media/HandsOnMLwithScikitKerasTensorFlow.png" width="55"/> | **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow** | Aurélien Géron | `███░░░░░░░` 30% | Discontinued, not planning to read anymore | — |
+| <img src="media/Deep_Learning_with_PyTorch _Step-by-Step.png" width="55"/> | **Deep Learning with PyTorch Step-by-Step** | Daniel Voigt Godoy | `██████░░░░` 60% | Discontinued, not planning to read anymore | [here](https://github.com/ujjwal-basnet/Deep-learning-by-Daniel-Voigt-Godoy-) and others in did't even push to github |
 | <img src="media/LLM_finetuining.png" width="55"/> | **Fine-Tuning Large Language Models** | dvgodoy | `██████████` 100% | Complete | [Fine-Tuning-LLM](https://github.com/ujjwal-basnet/Fine-Tuning-LLM) |
 | <img src="media/Building_llms_for_production.png" width="55"/> | **Building LLMs for Production** | — | `██████████` 100% | Complete | [here - ](https://github.com/ujjwal-basnet/Building-LLMs-for-Production) |
-| <img src="media/building_llm_powered_application.png" width="55"/> | **Building LLM Powered Applications** | — | `████████░░` 80% | On Hold | [llm](https://github.com/ujjwal-basnet/Building-LLMs-for-Production)  and others mini projects|
+| <img src="media/building_llm_powered_application.png" width="55"/> | **Building LLM Powered Applications** | — | `████████░░` 80% | Discontinued, not planning to read anymore | [llm](https://github.com/ujjwal-basnet/Building-LLMs-for-Production)  and others mini projects|
 | <img src="media/Managing_memory_Ai_agents_report.png.png" width="55"/> | **Managing Memory in AI Agents** | — | `██████████` 100% | Complete | — |
 | <img src="media/Generative_ai_playbook.png" width="55"/> | **Generative AI Playbook** | — | `███░░░░░░░` 30% | In Progress | [battle_tested_code](https://github.com/ujjwal-basnet/battle_tested_agent_codes) |
 | <img src="media/generative_ai_dedsign_patterns.png" width="55"/> | **Generative AI Design Patterns** | — | `██░░░░░░░░` 20% | In Progress | — |
@@ -36,7 +36,7 @@ Books I've read and am currently reading across AI/ML and general topics — wit
  
 | Cover | Title | Author | Progress | Status | Notes |
 |:-----:|-------|--------|:--------:|:------:|-------|
-| — | **Atomic Habits** | James Clear | `██████████` 100% |  no more self help boook , i dont much
+| — | **Atomic Habits** | James Clear | `██████████` 100% |  no more self help boook , i dont like much
 | — | **Sapiens: A Brief History of Humankind** | Yuval Noah Harari | `██████████` 100% | In Progress | — |
 | — | **Learning by Doing** |  | `██` 30% | not reading anymore | — |
 | — | **How Sex change internet and internet change sex** |  | `██████████` 70% | not reading anymore | — | 
@@ -44,5 +44,6 @@ Books I've read and am currently reading across AI/ML and general topics — wit
 
 
 ---
+(their are others too but not adding here)
 
 *Last updated: March 2026*
