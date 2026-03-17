@@ -37,7 +37,7 @@ Books I've read and am currently reading across AI/ML and general topics — wit
 | Cover | Title | Author | Progress | Status | Notes |
 |:-----:|-------|--------|:--------:|:------:|-------|
 | — | **Atomic Habits** | James Clear | `██████████` 100% |  no more self help boook , i dont like much
-| — | **Sapiens: A Brief History of Humankind** | Yuval Noah Harari | `██████████` 100% | In Progress | — |
+| — | **Sapiens: A Brief History of Humankind** | Yuval Noah Harari | `██████████` 100% | complted | — |
 | — | **Learning by Doing** |  | `██` 30% | not reading anymore | — |
 | — | **How Sex change internet and internet change sex** |  | `██████████` 70% | not reading anymore | — | 
 
